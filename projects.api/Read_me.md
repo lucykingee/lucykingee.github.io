@@ -4,6 +4,7 @@
 3. Action: Utilized a Vision Transformer (VIT) model with transfer learning and used Gradio interface for easy image uploads and top-5 predictions.
 4. Result: Achieved 85% classification accuracy, with reliable predictions via a cloud-based interface on Hugging Face.
 5. Reflection: Improved skills in transfer learning, model deployment, and creating accessible tools for non-technical users.
+
 The link to access the site to utilize the model and upload an image of food to see the predictions - "https://lucykingee-foodvision-vit.hf.space/" **Note is user-friendly**
 
 
