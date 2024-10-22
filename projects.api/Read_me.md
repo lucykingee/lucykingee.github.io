@@ -13,5 +13,5 @@ The link to access the site to utilize the model and upload an image of food to 
 1. Situation: Developed a model to classify tweets as disaster-related or not using NLP techniques.
 2. Task: Improve classification accuracy and balance speed by experimenting with various models.
 3. Action: Applied seq2seq models for tokenization and embedding, tested Naive Bayes, LSTMs, GRUs, and TensorFlow Hub Pretrained Feature Extractor.
-4. Result: Achieved an F1 score of 81% and optimized performance with a final accuracy of 81.4%.
+4. Result: Achieved an F1 score of 81% and optimized performance with a final accuracy of 81.6%.
 5. Reflection: Gained expertise in model optimization for text data classification and efficiency trade-offs.
