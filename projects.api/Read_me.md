@@ -1,4 +1,4 @@
-##Foodvision 101 Model Deployment##
+**Foodvision 101 Model Deployment**
 1. Situation: Faced with the challenge of classifying 101 food categories using a limited dataset.
 2. Task: Train and deploy a model on Hugging Face with a user-friendly interface for image uploads and classification.
 3. Action: Utilized a Vision Transformer (VIT) model with transfer learning and used Gradio interface for easy image uploads and top-5 predictions.
@@ -9,7 +9,7 @@ The link to access the site to utilize the model and upload an image of food to 
 
 
 
-##Tweet Disaster or not a Disaster Classification##
+**Tweet Disaster or not a Disaster Classification**
 1. Situation: Developed a model to classify tweets as disaster-related or not using NLP techniques.
 2. Task: Improve classification accuracy and balance speed by experimenting with various models.
 3. Action: Applied seq2seq models for tokenization and embedding, tested Naive Bayes, LSTMs, GRUs, and TensorFlow Hub Pretrained Feature Extractor.
